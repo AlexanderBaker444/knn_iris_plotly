@@ -117,11 +117,11 @@ def display_figure(val0, val1):
         y = [new_observation0[0][1]],
         mode = 'markers',
         marker=dict(
-            size=12,
-            color='lightgreen',
-            symbol = 'pentagon',
+            size=14,
+            color='pink',
+            symbol = 'circle',
             line=dict(
-                color='darkblue',
+                color='white',
                 width=1.5),
         )
     )
